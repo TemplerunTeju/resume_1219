@@ -1,0 +1,65 @@
+{
+	"profile":{
+		"img":"Tulips.jpg",
+		"name":"Tejaswini",
+		"roll":"16NN1A1219",
+		"college":"Vignan Nirula",
+		"place":"Guntur"
+	},
+	"career":{
+		"info":"Entry-level objectives can be especially difficult to write because you likely don't have."
+},
+"edudetails":[
+   {
+   	   "degree":"B.Tech",
+   	   "Institution":"Vignan",
+   	   "Yearofpassing":"2020"  
+   },
+   {
+   	   "degree":"Inter",
+   	   "Institution":"Sri chaitanya",
+   	   "Yearofpassing":"2016"
+   },
+   {
+   	   "degree":"S.S.C",
+   	   "Institution":"Sri Chaitanya",
+   	   "Yearofpassing":"2014"
+   }
+
+],
+"languages":[
+{
+"lang":"Telugu"
+},
+{
+	"lang":"English"
+},
+{
+	"lang":"hindi"
+}
+],
+ "skills":[
+    {
+    	"title":"platforms",
+    	"content":"windows,linux"
+    },
+    {
+    	"title":"programminglanguages",
+    	"content":"c,c++,java"
+    },
+    {
+    	"title":"database",
+    	"content":"mysql"
+    }
+
+
+ ]
+
+
+
+
+
+
+
+}
+
